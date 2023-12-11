@@ -1,0 +1,17 @@
+{
+    "name": "app/pagos",
+    "description": "Sueldos de empleados",
+    "autoload": {
+        "psr-4": {
+            "App\\Pagos\\": "src/",
+            "App\\Pagos\\controlador\\": "src/controlador",
+            "App\\Pagos\\modelo\\": "src/modelo"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emilio"
+        }
+    ],
+    "require": {}
+}
